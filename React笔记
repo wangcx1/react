@@ -1,0 +1,23 @@
+React笔记
+一、react组件基础
+1、React虚拟DOM概念，这是React性能高效的核心算法
+2、React组件，理解是什么组件化
+3、React多组件嵌套
+4、JSX内置表达式
+5、生命周期，纵观整个React的生命周期
+二、React属性和事件
+1、State属性，控制着React的一切
+2、Props属性
+3、事件与数据的双向绑定，包含了父子页面之间的参数互传
+4、可复用组件，真正让React开发快速、高效的地方
+5、组件的Refs
+6、独立组件间的共享Mixins
+三、React样式
+1、内联样式
+2、内联样式中的表达式
+3、CSS模块化，学习如何使用require进行样式的引用
+4、JSX样式与css的互转
+5、一个非常好用的样式框架Ant Design样式框架介绍
+四、React Router
+Router概念
+Router参数传递
